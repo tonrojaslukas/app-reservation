@@ -22,7 +22,7 @@ Projet conçu en équipe avec : Lukas, Felipe, Omar
 
 ![Schéma de navigation](Arboresence.png)
 
-![Écran principal_PC](TIM_ACCUEIL.png)
+![Écran principal_PC](TIM_ACCUEIL_PC.png)
 
 ![Écran principal_telephone](TIM_ACCUEIL.png)
 
