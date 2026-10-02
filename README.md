@@ -22,7 +22,7 @@ Projet conçu en équipe avec : Lukas, Felipe, Omar
 
 ![Schéma de navigation](navigation.png)
 
-![Écran principal](ecran-principal.jpg)
+![Écran principal](TIM_ACCUEIL.png)
 
 - Direction artistique : couleurs #......, #......, #...... et police ...
 - Sur téléphone et sur ordinateur : ...
