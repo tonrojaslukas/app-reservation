@@ -24,7 +24,7 @@ Projet conçu en équipe avec : Lukas, Felipe, Omar
 
 ![Écran principal](TIM_ACCUEIL.png)
 
-- Direction artistique : couleurs #......, #......, #...... et police ...
+- Direction artistique : couleurs #Rouge, #Noir, et police impact arial
 - Sur téléphone et sur ordinateur : ...
 
 ## Le plan de développement
