@@ -20,7 +20,7 @@ Projet conçu en équipe avec : Lukas, Felipe, Omar
     - En tant que TTP, je veux voir les demandes de réservations afin d'organiser le matériel. 
 ## L'expérience
 
-![Schéma de navigation](arborsence.png)
+![Schéma de navigation](Arboresence.png)
 
 ![Écran principal](TIM_ACCUEIL.png)
 
