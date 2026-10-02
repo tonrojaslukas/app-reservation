@@ -27,7 +27,7 @@ Projet conçu en équipe avec : Lukas, Felipe, Omar
 ![Écran principal_telephone](TIM_ACCUEIL.png)
 
 - Direction artistique : couleurs #Rouge, #Noir, et police impact arial
-- Sur téléphone et sur ordinateur : ...
+- Sur téléphone et sur ordinateur : Sur téléphone les différents formulaires en 4x2 et sur PC en 2x4
 
 ## Le plan de développement
 
