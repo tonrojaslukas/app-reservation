@@ -14,11 +14,10 @@ Projet conçu en équipe avec : Lukas, Felipe, Omar
 
 ## La solution
 
-- Proposition de valeur : Formulaire par médias, processus étape par étape guidé.
+- Proposition de valeur : Formulaire par cours, processus étape par étape guidé.
 - Fonctionnalités du MVP :
     - En tant que étudiant, je veux louer du matériel afin d'utiliser du matériel 
     - En tant que TTP, je veux voir les demandes de réservations afin d'organiser le matériel. 
-    - En tant que ..., je veux ... afin de ...
 ## L'expérience
 
 ![Schéma de navigation](navigation.png)
