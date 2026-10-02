@@ -1,12 +1,16 @@
 # Nom de l'application
-LE TABARNAK
 
-Projet conçu en équipe avec : [prénoms des coéquipiers]
+Projet conçu en équipe avec : Lukas, Felipe, Omar
 
 ## Le problème
 
-- Problème : ...
-- Persona : ...
+- Problème : - Long processus (trop d'étapes)
+             - Manque de guide (Not straightforward) 
+             - Manque d'images
+             - 
+- Persona : -étudiant
+            -TTP
+            -Enseignant 
 
 ## La solution
 
@@ -34,3 +38,4 @@ Projet conçu en équipe avec : [prénoms des coéquipiers]
 ## La demande
 
 Nous demandons ... $ pour ...
+
