@@ -1,4 +1,4 @@
-# Nom de l'application
+# TIM RESERVE
 
 Projet conçu en équipe avec : Lukas, Felipe, Omar
 
