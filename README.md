@@ -22,7 +22,9 @@ Projet conçu en équipe avec : Lukas, Felipe, Omar
 
 ![Schéma de navigation](Arboresence.png)
 
-![Écran principal](TIM_ACCUEIL.png)
+![Écran principal_PC](TIM_ACCUEIL.png)
+
+![Écran principal_telephone](TIM_ACCUEIL.png)
 
 - Direction artistique : couleurs #Rouge, #Noir, et police impact arial
 - Sur téléphone et sur ordinateur : ...
